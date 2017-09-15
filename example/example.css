@@ -202,28 +202,28 @@ body {
   content: "K";
 }
 .card.spades.rank1 .face {
-  background-image: url("faces/0_1.svg");
+  background-image: url("faces/single0.png");
 }
 .card.spades.rank2 .face {
-  background-image: url("faces/0_2.svg");
+  background-image: url("faces/single1.png");
 }
 .card.spades.rank3 .face {
-  background-image: url("faces/0_3.svg");
+  background-image: url("faces/single2.png");
 }
 .card.spades.rank4 .face {
-  background-image: url("faces/0_4.svg");
+  background-image: url("faces/single3.png");
 }
 .card.spades.rank5 .face {
-  background-image: url("faces/0_5.svg");
+  background-image: url("faces/single4.png");
 }
 .card.spades.rank6 .face {
-  background-image: url("faces/0_6.svg");
+  background-image: url("faces/single5.png");
 }
 .card.spades.rank7 .face {
-  background-image: url("faces/0_7.svg");
+  background-image: url("faces/single6.png");
 }
 .card.spades.rank8 .face {
-  background-image: url("faces/0_8.svg");
+  background-image: url("faces/single7.png");
 }
 .card.spades.rank9 .face {
   background-image: url("faces/0_9.svg");
